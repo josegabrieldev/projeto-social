@@ -27,7 +27,7 @@ p {
 }
 
 a {
-    background-color: blue;
+    background-color: rgba(0, 0, 255, 0.829);
     color: white;
     font-weight: bold;
     text-decoration: none;
@@ -38,6 +38,7 @@ a {
 a:hover {
     background-color: darkblue;
     font-size: 1.1em;
+    text-decoration: underline;
 }
 small:hover {
     color: white;
